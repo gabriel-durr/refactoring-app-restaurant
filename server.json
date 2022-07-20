@@ -1,0 +1,28 @@
+{
+  "foods": [
+    {
+      "id": 2,
+      "name": "Miojin",
+      "description": "Macarrão, com temperos colhidos de Marte, com sabor especial de kryptonia",
+      "price": "50",
+      "available": true,
+      "image": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3219952:1650417469/nissin.jpg?f=16x9&$p$f=ed631bf"
+    },
+    {
+      "image": "https://salists.com/wp-content/uploads/2021/10/Caldo-de-osso-Receitas.jpg",
+      "name": "Sopa de osso",
+      "price": "100",
+      "description": "Sopa de osso, da linhagem pura e genuína de ossos calcificados",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://img.itdg.com.br/tdg/images/recipes/000/168/230/352362/352362_original.jpg?mode=crop&width=710&height=400",
+      "name": "Macarrão com Salsicha",
+      "price": "200",
+      "description": "Macarrão, com salsichas das carnes mais nobres e preservadas de toda a história!",
+      "available": true,
+      "id": 5
+    }
+  ]
+}
