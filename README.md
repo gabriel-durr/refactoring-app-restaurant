@@ -8,7 +8,7 @@
 <br/>
 
 <h2 id = "author" align="center"></h2>
-avatar.jpg
+
 <table align="center">
   <tr>
       <td>
