@@ -1,3 +1,9 @@
+
+<div align="center">
+<img src="./.github/products.png" width="90%"/>
+</div>
+
+
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 <div align="center">
